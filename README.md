@@ -1,3 +1,10 @@
-# Course: Data Structure
-# NAME/Student ID: 何文琦/1143349
-# This is the living document to record what I learned from this course. 
+## 學生資訊
+* **姓名**：何文琦
+* **學號**：1143349
+
+## 課程資訊
+* **學期**：115-1
+* **課程名稱**：CS203A_Data Structure
+
+## 專案簡介
+此Repository作為CS203A課程的作業1。
